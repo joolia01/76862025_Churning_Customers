@@ -40,7 +40,7 @@ The independent variables were:
 - Training a Multi-Layer Perceptron model using the Functional API, using features from the feature extraction process, with cross-validation and GridSearchCV
 - Evaluated the model’s accuracy, calculated the AUC score, optimised the model, trained and tested again
 - Created a web-based platform using Streamlit to host the model
-- Allowed users to use the application to enter new data and the model predicts if the supplied data of a new customer can result in a churn or not printing the confidence factor of the model
+- Allowed users to use the application to enter new data. However, my the model was not able to predict churn and print the confidence factor of the model
 
 # Extracted Features to Predict Customer Churn
 - Dependents
