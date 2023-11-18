@@ -56,5 +56,5 @@ The independent variables were:
 - MonthlyCharges
 - TotalCharges
 
-  # Video Link
-  
+  # Demo Link
+  - Demo link: https://youtu.be/e0skNxTVdCY
